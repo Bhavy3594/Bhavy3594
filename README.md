@@ -5,7 +5,7 @@
 
 *Engineering production-focused applications, robust desktop architectures, and empirical data analytics suites.*
 
-[![](https://img.shields.io/badge/GitHub-Bhavy3594-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavy3594)
+[![](https://img.shields.io/badge/GitHub-BhavyAtkotiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhavyAtkotiya)
 [![](https://img.shields.io/badge/Email-bhavy3594%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavy3594@gmail.com)
 
 <br/>
@@ -89,31 +89,31 @@
   </thead>
   <tbody>
     <tr>
-      <td><b><a href="https://github.com/Bhavy3594/University-Canteen-Food-App">University-Canteen-Food-App</a></b></td>
+      <td><b><a href="https://github.com/BhavyAtkotiya/University-Canteen-Food-App">University-Canteen-Food-App</a></b></td>
       <td><code>Android Mobile</code></td>
       <td><code>Java</code> <code>Android SDK</code> <code>Firebase</code></td>
       <td>Campus food ordering mobile app featuring Firebase Realtime Database, authentication, menu filtering, cart persistence, floor delivery routing, and admin queue management.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/Bhavy3594/Hotel-Management-System">Hotel-Management-System</a></b></td>
+      <td><b><a href="https://github.com/BhavyAtkotiya/Hotel-Management-System">Hotel-Management-System</a></b></td>
       <td><code>Full-Stack Web</code></td>
       <td><code>Laravel</code> <code>PHP</code> <code>Blade</code> <code>MySQL</code></td>
       <td>Enterprise hotel web portal for room reservation management, guest check-in operations, dynamic room pricing, inquiry processing, and billing logs.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/Bhavy3594/Bank-Management-System">Bank-Management-System</a></b></td>
+      <td><b><a href="https://github.com/BhavyAtkotiya/Bank-Management-System">Bank-Management-System</a></b></td>
       <td><code>Desktop Software</code></td>
       <td><code>Java</code> <code>Swing</code> <code>MySQL</code> <code>OOP</code></td>
       <td>Java desktop banking system handling account onboarding, PIN authentication, deposit/withdrawal ledger operations, fast cash presets, and mini-statements.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/Bhavy3594/Crime_Rate_Analysis">Crime_Rate_Analysis</a></b></td>
+      <td><b><a href="https://github.com/BhavyAtkotiya/Crime_Rate_Analysis">Crime_Rate_Analysis</a></b></td>
       <td><code>Data Analytics</code></td>
       <td><code>R</code> <code>ggplot2</code> <code>dplyr</code> <code>Data Science</code></td>
       <td>Empirical statistical analysis of state-level Indian crime statistics, evaluating police-to-population ratios, conviction densities, and cybercrime growth trends.</td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/Bhavy3594/Result_management_System">Result_management_System</a></b></td>
+      <td><b><a href="https://github.com/BhavyAtkotiya/Result_management_System">Result_management_System</a></b></td>
       <td><code>Desktop Software</code></td>
       <td><code>Python</code> <code>Tkinter</code> <code>SQLite</code></td>
       <td>Automated student score and academic result management system supporting automated GPA calculation, mark sheet generation, and student records.</td>
@@ -126,12 +126,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavy3594&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bhavy's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavy3594&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhavyAtkotiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Bhavy's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhavyAtkotiya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Portfolio maintained by <a href="https://github.com/Bhavy3594">Bhavy Atkotiya</a></sub>
+  <sub>Portfolio maintained by <a href="https://github.com/BhavyAtkotiya">Bhavy Atkotiya</a></sub>
 </div>
