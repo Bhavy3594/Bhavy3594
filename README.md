@@ -24,24 +24,16 @@
 
 ---
 
-### 💫 About Me
+### 💫 About Me:
 
-```yaml
-name: Bhavy Atkotiya
-role: Software Developer | AI/ML & Full-Stack Systems
-passions:
-  - Natural Language Processing & Deep Learning Architectures
-  - Production-grade Web Portals & Enterprise MVC Backends
-  - Native Mobile Applications & Real-time Cloud Integrations
-  - Statistical Computing & Spatial Data Analytics Suites
-current_focus: Building intelligent, scalable software solutions with high-impact UX
-open_for: Full-Time Software Roles, ML Engineering, Freelance & Collaborative Open-Source
-```
+Hi, I'm **Bhavy Atkotiya** 👋  
+I'm a **Software Developer & AI/ML Enthusiast** passionate about building scalable real-world applications, intelligent deep learning models, and empirical data analytics suites.
 
-- 🤖 **Machine Learning & NLP:** Developing multi-label text moderation pipelines using **DistilBERT** & **PyTorch Lightning**, alongside predictive classification models using **Scikit-learn** and **Flask**.
-- 🌐 **Full-Stack Web Engineering:** Architecting enterprise management portals with **PHP**, **Laravel MVC**, **Blade**, and high-concurrency **MySQL** relational database design.
-- 📱 **Mobile & Native Software:** Engineering native Android applications with the **Android SDK**, **Java**, and **Firebase Realtime Database**, alongside desktop software in **Java Swing** and **Python Tkinter**.
-- 📊 **Empirical Data Science:** Performing statistical exploratory data analysis, spatial modeling, and publication-quality visualizations using **R** (`ggplot2`, `dplyr`) and **Python** (`pandas`, `numpy`, `seaborn`).
+- 🚀 **Full-Stack Web & Mobile:** I build production-grade web applications using **PHP (Laravel MVC)** and native mobile apps with **Java & Android SDK**.
+- 💡 **AI & Machine Learning:** Strong interest in Natural Language Processing (**DistilBERT**, **PyTorch Lightning**) and predictive modeling with **Scikit-learn** & **Flask**.
+- 🛠️ **Core Technologies:** Actively developing with **Python**, **Java**, **PHP**, **R**, **MySQL**, and **Firebase Realtime Database**.
+- 📊 **Data Analytics:** I enjoy exploratory data analysis, statistical computing, and spatial visualizations in **R (`ggplot2`, `dplyr`)** and **Python**.
+- 🎯 **Goal-Oriented:** Continuously improving my skills, building high-impact software, and collaborating on innovative projects.
 
 ---
 
