@@ -24,14 +24,6 @@
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhavy3594&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
 ### 💫 About Me
 
 ```yaml
@@ -152,24 +144,19 @@ open_for: Full-Time Software Roles, ML Engineering, Freelance & Collaborative Op
 ### 📈 GitHub Analytics & Activity Metrics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Bhavy3594&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=38bdf8&icon_color=00f5d4&text_color=94a3b8&bg_color=0d1117" alt="Bhavy's GitHub Stats" width="410" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavy3594&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" width="370" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavy3594&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=00f5d4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8" alt="GitHub Streak" width="800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhavy3594&theme=tokyonight" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhavy3594&theme=tokyonight" alt="Repos per Language" width="49%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavy3594&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=00f5d4&point=ffffff" alt="Activity Graph" width="800" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bhavy3594&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=38bdf8&icon_color=00f5d4&text_color=94a3b8&bg_color=0d1117" alt="Bhavy's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhavy3594&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" width="49%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhavy3594&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=00f5d4&point=ffffff" alt="Activity Graph" width="98%" />
+
 </div>
 
 ---
