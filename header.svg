@@ -1,0 +1,101 @@
+<svg fill="none" viewBox="0 0 900 200" width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #0d1117 100%);
+          border: 1.5px solid rgba(56, 189, 248, 0.35);
+          border-radius: 16px;
+          height: 196px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          position: relative;
+          overflow: hidden;
+          box-shadow: 0 8px 32px 0 rgba(0, 245, 212, 0.15);
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        .glow-orb {
+          position: absolute;
+          width: 250px;
+          height: 250px;
+          background: radial-gradient(circle, rgba(56, 189, 248, 0.25) 0%, rgba(129, 140, 248, 0.15) 50%, transparent 70%);
+          top: -50px;
+          left: 50%;
+          transform: translateX(-50%);
+          border-radius: 50%;
+          filter: blur(25px);
+          animation: pulse 6s ease-in-out infinite alternate;
+        }
+
+        .title {
+          font-size: 38px;
+          font-weight: 800;
+          background: linear-gradient(90deg, #38BDF8 0%, #818CF8 50%, #34D399 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          margin: 0;
+          padding: 0;
+          letter-spacing: 1.5px;
+          z-index: 1;
+        }
+
+        .subtitle {
+          font-size: 17px;
+          font-weight: 500;
+          color: #94A3B8;
+          margin-top: 6px;
+          margin-bottom: 14px;
+          z-index: 1;
+          letter-spacing: 0.5px;
+        }
+
+        .tags {
+          display: flex;
+          gap: 10px;
+          z-index: 1;
+        }
+
+        .tag {
+          font-size: 12px;
+          font-weight: 600;
+          padding: 4px 12px;
+          border-radius: 20px;
+          background: rgba(56, 189, 248, 0.1);
+          border: 1px solid rgba(56, 189, 248, 0.3);
+          color: #38BDF8;
+          letter-spacing: 0.3px;
+        }
+
+        .tag-purple {
+          background: rgba(129, 140, 248, 0.1);
+          border-color: rgba(129, 140, 248, 0.3);
+          color: #A78BFA;
+        }
+
+        .tag-green {
+          background: rgba(52, 211, 153, 0.1);
+          border-color: rgba(52, 211, 153, 0.3);
+          color: #34D399;
+        }
+
+        @keyframes pulse {
+          0% { transform: translateX(-50%) scale(0.9); opacity: 0.7; }
+          100% { transform: translateX(-50%) scale(1.15); opacity: 1; }
+        }
+      </style>
+      <div class="container">
+        <div class="glow-orb"></div>
+        <h1 class="title">BHAVY ATKOTIYA</h1>
+        <p class="subtitle">AI &amp; ML Engineer • Full-Stack Web &amp; Mobile Architect</p>
+        <div class="tags">
+          <span class="tag">🤖 PyTorch Lightning &amp; DistilBERT</span>
+          <span class="tag tag-purple">🌐 Laravel MVC &amp; Android SDK</span>
+          <span class="tag tag-green">📊 Empirical Data Analytics in R</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

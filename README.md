@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- HERO BANNER / WAVING GRADIENT HEADER -->
+  <!-- HERO BANNER / CUSTOM SVG HEADER -->
   <a href="https://github.com/Bhavy3594">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30,36&height=220&section=header&text=Bhavy%20Atkotiya&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Systems%20Developer&descFontSize=20&descAlignY=60&descAlign=50&animation=twinkling" width="100%" alt="Bhavy Atkotiya Header Banner" />
+    <img src="https://raw.githubusercontent.com/Bhavy3594/Bhavy3594/main/header.svg" width="100%" alt="Bhavy Atkotiya Header Banner" />
   </a>
 
   <br/>
