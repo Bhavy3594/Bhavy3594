@@ -17,7 +17,7 @@
 
   <!-- ANIMATED DYNAMIC TYPING -->
   <a href="https://github.com/Bhavy3594">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vcenter=true&random=false&width=620&height=50&lines=%F0%9F%A4%96+AI+%26+Deep+Learning+Practitioner;%F0%9F%9A%80+Full-Stack+Web+%26+Mobile+App+Developer;%F0%9F%A7%A0+DistilBERT+%E2%80%A2+PyTorch+Lightning+%E2%80%A2+Scikit-Learn;%F0%9F%92%BB+Laravel+%E2%80%A2+Android+SDK+%E2%80%A2+Java+%E2%80%A2+Python+%E2%80%A2+R;%F0%9F%93%8A+Empirical+Data+Analytics+%26+Statistical+Modeling" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vcenter=true&random=false&width=620&height=50&lines=%F0%9F%93%B1+Android+Developer+%26+Software+Engineer;%F0%9F%9A%80+Full-Stack+Web+%26+Mobile+App+Developer;%F0%9F%92%BB+Java+%E2%80%A2+Android+SDK+%E2%80%A2+Laravel+%E2%80%A2+Python+%E2%80%A2+R;%F0%9F%93%8A+Empirical+Data+Analytics+%26+Statistical+Modeling" alt="Typing SVG" />
   </a>
 
 </div>
@@ -27,13 +27,13 @@
 ### 💫 About Me:
 
 Hi, I'm **Bhavy Atkotiya** 👋  
-I'm a **Software Developer & AI/ML Enthusiast** passionate about building scalable real-world applications, intelligent deep learning models, and empirical data analytics suites.
+I'm a **Software Developer & Android Developer** passionate about building scalable real-world applications, robust mobile solutions, and empirical data analytics suites.
 
-- 🚀 **Full-Stack Web & Mobile:** I build production-grade web applications using **PHP (Laravel MVC)** and native mobile apps with **Java & Android SDK**.
-- 💡 **AI & Machine Learning:** Strong interest in Natural Language Processing (**DistilBERT**, **PyTorch Lightning**) and predictive modeling with **Scikit-learn** & **Flask**.
-- 🛠️ **Core Technologies:** Actively developing with **Python**, **Java**, **PHP**, **R**, **MySQL**, and **Firebase Realtime Database**.
-- 📊 **Data Analytics:** I enjoy exploratory data analysis, statistical computing, and spatial visualizations in **R (`ggplot2`, `dplyr`)** and **Python**.
-- 🎯 **Goal-Oriented:** Continuously improving my skills, building high-impact software, and collaborating on innovative projects.
+- 📱 **Android & Mobile Development:** I build native mobile applications using **Java & Android SDK** with real-time backend integrations (**Firebase Realtime DB**).
+- 🚀 **Full-Stack Web Development:** I develop production-grade web applications and management portals using **PHP (Laravel MVC)** and **MySQL**.
+- 🛠️ **Core Technologies:** Actively developing with **Java**, **Android SDK**, **PHP**, **Laravel**, **Python**, **R**, **MySQL**, and **SQLite**.
+- 📊 **Data Analytics:** I enjoy exploratory data analysis, statistical computing, and spatial visualizations in **R (`ggplot2`, `dplyr`)** and **Python (`Pandas`, `NumPy`)**.
+- 🎯 **Goal-Oriented:** Continuously improving my skills, writing clean code, building high-impact software, and collaborating on innovative projects.
 
 ---
 
@@ -43,12 +43,12 @@ I'm a **Software Developer & AI/ML Enthusiast** passionate about building scalab
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **🧠 AI, ML & Data Science** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" /> |
+| **📊 Data Analytics & Computing** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" /> |
 | **💻 Programming Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
 | **🌐 Backend & Web Frameworks** | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> |
 | **📱 Mobile & Desktop Systems** | <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Tkinter_GUI-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/XML_Layouts-FF6600?style=flat-square&logo=xml&logoColor=white" /> |
 | **🗄️ Databases & Cloud** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase_Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> |
-| **🛠️ Tools & DevOps** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> |
+| **🛠️ Tools & DevOps** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /> |
 
 </div>
 
