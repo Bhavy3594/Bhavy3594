@@ -10,7 +10,7 @@
   <!-- QUICK CONNECT & STATUS BADGES -->
   <p align="center">
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:bhavy3594@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="mailto:bhavyatkotiya2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <img src="https://img.shields.io/badge/Status-Open_For_Opportunities-00F5D4?style=for-the-badge&logo=codeforces&logoColor=black" alt="Open for Opportunities"/>
     <img src="https://komarev.com/ghpvc/?username=Bhavy3594&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   </p>
@@ -182,7 +182,7 @@ I'm a **Software Developer & Android Developer** passionate about building scala
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:bhavy3594@gmail.com">
+  <a href="mailto:bhavyatkotiya2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Bhavy3594">
